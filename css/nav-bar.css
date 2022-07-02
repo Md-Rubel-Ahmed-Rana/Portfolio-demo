@@ -55,6 +55,11 @@ ul li{
     border-radius: 5px;
 }
 
+ul li:hover{
+    background-color: blue;
+    color: white
+}
+
 /*
 Nav-bar section ended here
 */
